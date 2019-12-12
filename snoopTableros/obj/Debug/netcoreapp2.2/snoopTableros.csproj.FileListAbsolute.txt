@@ -1,0 +1,16 @@
+C:\Users\AObregon\source\repos\snoopTableros\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\AObregon\source\repos\snoopTableros\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\AObregon\source\repos\snoopTableros\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\AObregon\source\repos\snoopTableros\bin\Debug\netcoreapp2.2\snoopTableros.deps.json
+C:\Users\AObregon\source\repos\snoopTableros\bin\Debug\netcoreapp2.2\snoopTableros.runtimeconfig.json
+C:\Users\AObregon\source\repos\snoopTableros\bin\Debug\netcoreapp2.2\snoopTableros.runtimeconfig.dev.json
+C:\Users\AObregon\source\repos\snoopTableros\bin\Debug\netcoreapp2.2\snoopTableros.dll
+C:\Users\AObregon\source\repos\snoopTableros\bin\Debug\netcoreapp2.2\snoopTableros.pdb
+C:\Users\AObregon\source\repos\snoopTableros\obj\Debug\netcoreapp2.2\snoopTableros.csprojAssemblyReference.cache
+C:\Users\AObregon\source\repos\snoopTableros\obj\Debug\netcoreapp2.2\snoopTableros.RazorAssemblyInfo.cache
+C:\Users\AObregon\source\repos\snoopTableros\obj\Debug\netcoreapp2.2\snoopTableros.RazorAssemblyInfo.cs
+C:\Users\AObregon\source\repos\snoopTableros\obj\Debug\netcoreapp2.2\snoopTableros.AssemblyInfoInputs.cache
+C:\Users\AObregon\source\repos\snoopTableros\obj\Debug\netcoreapp2.2\snoopTableros.AssemblyInfo.cs
+C:\Users\AObregon\source\repos\snoopTableros\obj\Debug\netcoreapp2.2\snoopTableros.RazorTargetAssemblyInfo.cache
+C:\Users\AObregon\source\repos\snoopTableros\obj\Debug\netcoreapp2.2\snoopTableros.dll
+C:\Users\AObregon\source\repos\snoopTableros\obj\Debug\netcoreapp2.2\snoopTableros.pdb
